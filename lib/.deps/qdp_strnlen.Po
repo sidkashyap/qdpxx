@@ -1,0 +1,6 @@
+qdp_strnlen.o: qdp_strnlen.cc ../include/qdp_config.h \
+ ../include/qdp_config_internal.h
+
+../include/qdp_config.h:
+
+../include/qdp_config_internal.h:

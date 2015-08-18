@@ -1,0 +1,8 @@
+.h.in-Files
+libintrin/include/libintrin_config_internal.h.in
+xpath_reader/include/xpath_reader_config_internal.h.in
+qio/include/qio_config_internal.h.in
+qio/other_libs/c-lime/include/lime_config_internal.h.in
+filedb/src/filedb_config_internal.h.in
+
+.in.in-Files
